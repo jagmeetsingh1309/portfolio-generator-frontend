@@ -11,3 +11,8 @@ body {
   border: none;
   margin: 0.75rem 0;
 }
+
+.project {
+  background-color: #F8FAFC;
+  border: none;
+}
